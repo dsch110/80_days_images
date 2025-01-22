@@ -1,0 +1,25 @@
+{
+  "name": "The Highbluff Gazette - January 19, 2025",
+  "description": "The Sunday edition of The Highbluff Gazette, Sky Societies' premier newspaper. Each edition is a unique NFT representing ownership of this historic publication.",
+  "image": "https://raw.githubusercontent.com/dsch110/80_days_images/main/jan_20.png",
+  "external_url": "https://skysocieties.com",
+  "background_color": "FFFFFF",
+  "attributes": [
+    {
+      "trait_type": "Edition Type",
+      "value": "Sunday"
+    },
+    {
+      "trait_type": "Publication Date",
+      "value": "January 19, 2025"
+    },
+    {
+      "trait_type": "Publisher",
+      "value": "Sky Societies"
+    },
+    {
+      "trait_type": "Test Message",
+      "value": "hi world"
+    }
+  ]
+} 
